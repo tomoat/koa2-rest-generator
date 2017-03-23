@@ -1,0 +1,23 @@
+{
+  "name": "koa2-rest-generator",
+  "version": "1.0.0",
+  "description": "Build modern restfull api tool use koa2",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoat/koa2-rest-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomoat/koa2-rest-generator/issues"
+  },
+  "homepage": "https://github.com/tomoat/koa2-rest-generator#readme"
+}
